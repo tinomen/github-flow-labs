@@ -52,4 +52,4 @@ The following is a list of steps and instructions on how to complete this guided
 - Parth Shah
 - Kim Semenza
 - Lisa Cook
-
+- Ciara CC Beitel
