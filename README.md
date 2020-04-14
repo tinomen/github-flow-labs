@@ -50,3 +50,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Your name
 
 - Richard Lynch 1
+- Alexis Villaraza
+- Parth Shah
+- Kim Semenza
+- Lisa Cook
+- Ciara CC Beitel
