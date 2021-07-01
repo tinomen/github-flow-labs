@@ -13,7 +13,7 @@
 ## Objectives
 
 - By the end of this guided project you will have demonstrated the following:
-  - You will be able to create a _branch_ off of the **main** branch of a repository.
+  - You will be able to create a _branch_ from the **main** branch of a repository.
   - You will be able to submit a _pull-request_ from your feature branch onto the **main** branch.
   - You will be able to _merge_ the **main** branch onto your feature branch.
   - You will be able to resolve any _merge conflicts_ that come up.
