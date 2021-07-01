@@ -8,7 +8,7 @@
 
 ## Purpose
 
-- Knowing a team work flow using Git/GitHub is absolutely vital for you to succeed as a tech professional. That is the purpose of this exercise.
+- Knowing a team work flow using Git/GitHub is absolutely vital for you to succeed as a professional in this field. That is the purpose of this exercise.
 
 ## Objectives
 
